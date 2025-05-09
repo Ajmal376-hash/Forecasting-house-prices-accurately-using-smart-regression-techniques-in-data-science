@@ -1,0 +1,6 @@
+Training Random Forest...
+
+Random Forest Performance (in USD):
+Mean Absolute Error: $36,919.50
+Root Mean Squared Error: $56,223.96
+R²: 0.7632

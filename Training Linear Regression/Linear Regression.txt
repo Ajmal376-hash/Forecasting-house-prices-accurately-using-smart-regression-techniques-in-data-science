@@ -1,0 +1,5 @@
+
+Linear Regression Performance (in USD):
+Mean Absolute Error: $44,493.10
+Root Mean Squared Error: $64,291.25
+R²: 0.6903

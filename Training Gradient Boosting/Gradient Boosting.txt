@@ -1,0 +1,6 @@
+Training Gradient Boosting...
+
+Gradient Boosting Performance (in USD):
+Mean Absolute Error: $43,533.53
+Root Mean Squared Error: $64,533.38
+R²: 0.6880
